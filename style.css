@@ -1,0 +1,29 @@
+html{
+    background-color:salmon;
+}
+#red{
+    color: red;
+    font-weight: normal;
+}
+#blue{
+    color: blue;
+    font-weight: normal;
+}
+#orange{
+    color: orange;
+    font-weight: normal;
+}
+#yellow{
+    color: yellow;
+    font-weight: normal;
+}
+#green{
+    color: green;
+    font-weight: normal;
+}
+img{
+    border: 4px solid darkturquoise;
+    border-radius:50%;
+    width:200px;
+    height: 200px;
+}
